@@ -76,12 +76,12 @@ recently, i've been exploring **agentic ai, rag systems, intelligent workflows, 
 ![Git](https://img.shields.io/badge/Git-fbe5ec?style=flat-square&logo=git&logoColor=4a2c35)
 
 </div>
----
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e8c-0f2d-4dd5-b6c4-78dcea430fb5.gif" width="250">
 </p>
 
+---
 ## 🚀 featured projects
 
 | Project | Description | Tech |
