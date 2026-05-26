@@ -1,7 +1,7 @@
 <h1 align="center">hey, i'm nausheen 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=1000&color=6E57E0&center=true&vCenter=true&width=500&lines=AI+%E2%80%A2+Systems+%E2%80%A2+Full-Stack;Building+things+that+solve+real+problems;Always+learning+%26+building+%E2%9A%A1" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=1000&color=6E57E0&center=true&vCenter=true&width=600&lines=AI+%E2%80%A2+Systems+%E2%80%A2+Full-Stack;Building+things+that+solve+real+problems;Always+learning+%26+building+%E2%9A%A1" />
 </p>
 
 <p align="center">
@@ -12,6 +12,10 @@
   <a href="https://www.linkedin.com/in/nausheen-rasool-ji-vali-ji/">LinkedIn</a> •
   <a href="https://x.com/NausheenRv">Twitter</a> •
   <a href="https://leetcode.com/u/rv_naush301005/">LeetCode</a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213760677-08ca681c-62c2-4ec8-a82d-4e5ed2f0a146.gif" width="700">
 </p>
 
 ---
@@ -45,8 +49,8 @@ Firebase • PostgreSQL • MongoDB • Docker • Git
 ## 🚀 featured projects
 
 | Project | Description | Tech |
-|--------|-------------|------|
-| 🧠 **VANTAGE AI / VeriCall** | AI-powered video KYC & intelligent loan onboarding with consent capture, document verification, and risk assessment | `FastAPI` `LLMs` `Next.js` |
+|----------|-------------|------|
+| 🪪 **VANTAGE AI** | AI-powered video KYC & intelligent loan onboarding with consent capture, document verification, and risk assessment | `FastAPI` `LLMs` `Next.js` |
 | 🗺️ **Safe Yatra** | Safety intelligence system recommending safer travel routes using geospatial and contextual signals | `Flutter` `FastAPI` `Maps API` |
 | ⚡ **Mercury AI** | Enterprise knowledge-sharing platform powered by RAG and intelligent retrieval | `React` `TypeScript` `LangChain` `Vector DBs` |
 
@@ -72,5 +76,5 @@ outside of tech, you'll probably find me:
 ---
 
 <p align="center">
-  <i>building, learning, and figuring things out — one project at a time ⚡</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&pause=1000&color=6E57E0&center=true&vCenter=true&width=600&lines=building%2C+learning%2C+and+figuring+things+out+%E2%9A%A1;one+project+at+a+time+%E2%88%9E" />
 </p>
