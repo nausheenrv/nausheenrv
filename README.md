@@ -40,17 +40,38 @@ recently, i've been exploring **agentic ai, rag systems, intelligent workflows, 
 
 ## 🛠️ tech stack
 
-**Languages**  
-Python • TypeScript • JavaScript • Dart • C++ • SQL
+<div align="center">
 
-**Frontend & Mobile**  
-React • React Native • Flutter • TailwindCSS
+### languages  
+![Python](https://img.shields.io/badge/Python-f8d7da?style=flat-square&logo=python&logoColor=5a3e36)
+![TypeScript](https://img.shields.io/badge/TypeScript-f6d0e0?style=flat-square&logo=typescript&logoColor=5a3e36)
+![JavaScript](https://img.shields.io/badge/JavaScript-fce4ec?style=flat-square&logo=javascript&logoColor=5a3e36)
+![Dart](https://img.shields.io/badge/Dart-f9d5e5?style=flat-square&logo=dart&logoColor=5a3e36)
+![C++](https://img.shields.io/badge/C++-f8d7da?style=flat-square&logo=cplusplus&logoColor=5a3e36)
+![SQL](https://img.shields.io/badge/SQL-fce4ec?style=flat-square&logo=mysql&logoColor=5a3e36)
 
-**Backend & AI**  
-FastAPI • Node.js • LangChain • LangGraph • RAG • LLM Applications
+### frontend & mobile  
+![React](https://img.shields.io/badge/React-f6d0e0?style=flat-square&logo=react&logoColor=5a3e36)
+![React Native](https://img.shields.io/badge/React_Native-fce4ec?style=flat-square&logo=react&logoColor=5a3e36)
+![Flutter](https://img.shields.io/badge/Flutter-f9d5e5?style=flat-square&logo=flutter&logoColor=5a3e36)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-f8d7da?style=flat-square&logo=tailwindcss&logoColor=5a3e36)
 
-**Databases & Tools**  
-Firebase • PostgreSQL • MongoDB • Docker • Git
+### backend & ai  
+![FastAPI](https://img.shields.io/badge/FastAPI-fce4ec?style=flat-square&logo=fastapi&logoColor=5a3e36)
+![Node.js](https://img.shields.io/badge/Node.js-f9d5e5?style=flat-square&logo=nodedotjs&logoColor=5a3e36)
+![LangChain](https://img.shields.io/badge/LangChain-f8d7da?style=flat-square&logoColor=5a3e36)
+![LangGraph](https://img.shields.io/badge/LangGraph-f6d0e0?style=flat-square&logoColor=5a3e36)
+![RAG](https://img.shields.io/badge/RAG-fce4ec?style=flat-square&logoColor=5a3e36)
+![LLMs](https://img.shields.io/badge/LLMs-f9d5e5?style=flat-square&logoColor=5a3e36)
+
+### databases & tools  
+![Firebase](https://img.shields.io/badge/Firebase-f8d7da?style=flat-square&logo=firebase&logoColor=5a3e36)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-f6d0e0?style=flat-square&logo=postgresql&logoColor=5a3e36)
+![MongoDB](https://img.shields.io/badge/MongoDB-fce4ec?style=flat-square&logo=mongodb&logoColor=5a3e36)
+![Docker](https://img.shields.io/badge/Docker-f9d5e5?style=flat-square&logo=docker&logoColor=5a3e36)
+![Git](https://img.shields.io/badge/Git-f8d7da?style=flat-square&logo=git&logoColor=5a3e36)
+
+</div>
 
 ---
 
