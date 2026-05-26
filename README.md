@@ -44,36 +44,36 @@ recently, i've been exploring **agentic ai, rag systems, intelligent workflows, 
 
 ### languages
 
-![Python](https://img.shields.io/badge/Python-e8a0bf?style=flat-square&logo=python&logoColor=4a2c35)
-![TypeScript](https://img.shields.io/badge/TypeScript-efb3cb?style=flat-square&logo=typescript&logoColor=4a2c35)
-![JavaScript](https://img.shields.io/badge/JavaScript-f4c6d7?style=flat-square&logo=javascript&logoColor=4a2c35)
-![Dart](https://img.shields.io/badge/Dart-f8d7e1?style=flat-square&logo=dart&logoColor=4a2c35)
-![C++](https://img.shields.io/badge/C++-fbe5ec?style=flat-square&logo=cplusplus&logoColor=4a2c35)
-![SQL](https://img.shields.io/badge/SQL-fdf1f5?style=flat-square&logo=mysql&logoColor=4a2c35)
+![Python](https://img.shields.io/badge/Python-b8d8ff?style=flat-square&logo=python&logoColor=2d3e50)
+![TypeScript](https://img.shields.io/badge/TypeScript-c9d7ff?style=flat-square&logo=typescript&logoColor=2d3e50)
+![JavaScript](https://img.shields.io/badge/JavaScript-d9d0ff?style=flat-square&logo=javascript&logoColor=2d3e50)
+![Dart](https://img.shields.io/badge/Dart-e6cfff?style=flat-square&logo=dart&logoColor=2d3e50)
+![C++](https://img.shields.io/badge/C++-f2d0f7?style=flat-square&logo=cplusplus&logoColor=2d3e50)
+![SQL](https://img.shields.io/badge/SQL-f8d4e8?style=flat-square&logo=mysql&logoColor=2d3e50)
 
 ### frontend & mobile
 
-![React](https://img.shields.io/badge/React-e8a0bf?style=flat-square&logo=react&logoColor=4a2c35)
-![React_Native](https://img.shields.io/badge/React_Native-efb3cb?style=flat-square&logo=react&logoColor=4a2c35)
-![Flutter](https://img.shields.io/badge/Flutter-f4c6d7?style=flat-square&logo=flutter&logoColor=4a2c35)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-f8d7e1?style=flat-square&logo=tailwindcss&logoColor=4a2c35)
+![React](https://img.shields.io/badge/React-b8d8ff?style=flat-square&logo=react&logoColor=2d3e50)
+![React_Native](https://img.shields.io/badge/React_Native-c9d7ff?style=flat-square&logo=react&logoColor=2d3e50)
+![Flutter](https://img.shields.io/badge/Flutter-d9d0ff?style=flat-square&logo=flutter&logoColor=2d3e50)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-e6cfff?style=flat-square&logo=tailwindcss&logoColor=2d3e50)
 
 ### backend & ai
 
-![FastAPI](https://img.shields.io/badge/FastAPI-e8a0bf?style=flat-square&logo=fastapi&logoColor=4a2c35)
-![Node.js](https://img.shields.io/badge/Node.js-efb3cb?style=flat-square&logo=nodedotjs&logoColor=4a2c35)
-![LangChain](https://img.shields.io/badge/LangChain-f4c6d7?style=flat-square&logoColor=4a2c35)
-![LangGraph](https://img.shields.io/badge/LangGraph-f8d7e1?style=flat-square&logoColor=4a2c35)
-![RAG](https://img.shields.io/badge/RAG-fbe5ec?style=flat-square&logoColor=4a2c35)
-![LLMs](https://img.shields.io/badge/LLMs-fdf1f5?style=flat-square&logoColor=4a2c35)
+![FastAPI](https://img.shields.io/badge/FastAPI-b8d8ff?style=flat-square&logo=fastapi&logoColor=2d3e50)
+![Node.js](https://img.shields.io/badge/Node.js-c9d7ff?style=flat-square&logo=nodedotjs&logoColor=2d3e50)
+![LangChain](https://img.shields.io/badge/LangChain-d9d0ff?style=flat-square&logoColor=2d3e50)
+![LangGraph](https://img.shields.io/badge/LangGraph-e6cfff?style=flat-square&logoColor=2d3e50)
+![RAG](https://img.shields.io/badge/RAG-f2d0f7?style=flat-square&logoColor=2d3e50)
+![LLMs](https://img.shields.io/badge/LLMs-f8d4e8?style=flat-square&logoColor=2d3e50)
 
 ### databases & tools
 
-![Firebase](https://img.shields.io/badge/Firebase-e8a0bf?style=flat-square&logo=firebase&logoColor=4a2c35)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-efb3cb?style=flat-square&logo=postgresql&logoColor=4a2c35)
-![MongoDB](https://img.shields.io/badge/MongoDB-f4c6d7?style=flat-square&logo=mongodb&logoColor=4a2c35)
-![Docker](https://img.shields.io/badge/Docker-f8d7e1?style=flat-square&logo=docker&logoColor=4a2c35)
-![Git](https://img.shields.io/badge/Git-fbe5ec?style=flat-square&logo=git&logoColor=4a2c35)
+![Firebase](https://img.shields.io/badge/Firebase-b8d8ff?style=flat-square&logo=firebase&logoColor=2d3e50)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-c9d7ff?style=flat-square&logo=postgresql&logoColor=2d3e50)
+![MongoDB](https://img.shields.io/badge/MongoDB-d9d0ff?style=flat-square&logo=mongodb&logoColor=2d3e50)
+![Docker](https://img.shields.io/badge/Docker-e6cfff?style=flat-square&logo=docker&logoColor=2d3e50)
+![Git](https://img.shields.io/badge/Git-f2d0f7?style=flat-square&logo=git&logoColor=2d3e50)
 
 </div>
 
