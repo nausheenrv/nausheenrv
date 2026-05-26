@@ -29,10 +29,14 @@ i'm especially interested in the intersection of **ai, systems, and product deve
 recently, i've been exploring **agentic ai, rag systems, intelligent workflows, and scalable backend systems** — while constantly learning through building.
 
 <p align="center">
-  <img width="350" src="https://user-images.githubusercontent.com/74038190/212749695-0429a916-5f75-4f5d-8f7d-5ec7b6d8b2d1.gif">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-0429a916-5f75-4f5d-8f7d-5ec7b6d8b2d1.gif" width="450">
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-bc89-0b4c1419ef43.gif" width="280">
+</p>
 
 ## 🛠️ tech stack
 
@@ -51,7 +55,7 @@ Firebase • PostgreSQL • MongoDB • Docker • Git
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656967-e9a9c3a5-f9a8-49e5-9f8c-c6f3f20f4d3b.gif" width="120">
+  <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e8c-0f2d-4dd5-b6c4-78dcea430fb5.gif" width="250">
 </p>
 
 ## 🚀 featured projects
@@ -70,6 +74,10 @@ Firebase • PostgreSQL • MongoDB • Docker • Git
 - scalable backend systems  
 - system design & distributed systems  
 - building products that solve real problems
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216658116-3d84f50d-1f3e-4c6d-97f2-4c4d6dce4d5b.gif" width="280">
+</p>
 
 ---
 
