@@ -28,6 +28,10 @@ i'm especially interested in the intersection of **ai, systems, and product deve
 
 recently, i've been exploring **agentic ai, rag systems, intelligent workflows, and scalable backend systems** — while constantly learning through building.
 
+<p align="center">
+  <img width="350" src="https://user-images.githubusercontent.com/74038190/212749695-0429a916-5f75-4f5d-8f7d-5ec7b6d8b2d1.gif">
+</p>
+
 ---
 
 ## 🛠️ tech stack
@@ -45,6 +49,10 @@ FastAPI • Node.js • LangChain • LangGraph • RAG • LLM Applications
 Firebase • PostgreSQL • MongoDB • Docker • Git
 
 ---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656967-e9a9c3a5-f9a8-49e5-9f8c-c6f3f20f4d3b.gif" width="120">
+</p>
 
 ## 🚀 featured projects
 
@@ -76,5 +84,5 @@ outside of tech, you'll probably find me:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&pause=1000&color=6E57E0&center=true&vCenter=true&width=600&lines=building%2C+learning%2C+and+figuring+things+out+%E2%9A%A1;one+project+at+a+time+%E2%88%9E" />
+  <i>building, learning, and figuring things out — one project at a time ⚡</i>
 </p>
